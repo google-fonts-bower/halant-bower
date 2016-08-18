@@ -1,0 +1,17 @@
+{
+    "name": "halant-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/halant-bower.git"
+    },
+    "description": "Halant font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
